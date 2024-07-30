@@ -63,4 +63,4 @@ Enter the disease of interest: Breast Cancer
 The output will be generated abstracts reflecting a positive relationship between BRCA1 and Breast Cancer.
 
 ## Contact
-For support or queries, reach out at eesharma21@gmail.com.
+For support or queries, reach out at isharma@morgridge.org and jfreeman@morgridge.org.
