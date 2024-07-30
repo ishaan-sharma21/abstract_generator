@@ -23,7 +23,11 @@ Before you begin, ensure you have the following:
 ## Configuration
 Before running the script, you need to configure the following:
    
-- OpenAI API Key: You must provide your OpenAI API key in the script. Replace 'api-key-here' with your actual OpenAI API key.
+- OpenAI API Key: 
+
+```
+export OPENAI_API_KEY=your_api_key_here
+```
 
 - Prompts: The prompts can be adjusted as desired.
 
